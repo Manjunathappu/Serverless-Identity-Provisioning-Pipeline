@@ -38,7 +38,8 @@ This project demonstrates practical implementation of serverless application dev
 
 <p align="center">
 <img src="architecture/architecture-diagram.png" width="1000">
-</p>
+</p><img width="1536" height="1024" alt="Solution Architecture (Identity Pipeline)" src="https://github.com/user-attachments/assets/02434957-61f2-419f-8dc9-5086b691d053" />
+
 
 ---
 
