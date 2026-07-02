@@ -6,7 +6,31 @@
 
 # 📌 Project Overview
 
-(Project Description)
+Employee onboarding is a critical HR process that often involves multiple manual tasks across HR and IT teams, such as employee registration, identity creation, document verification, software provisioning, policy acknowledgements, and onboarding status tracking. These manual processes can lead to delays, inconsistencies, and increased administrative overhead.
+
+The **AWS Serverless HRMS Onboarding System** addresses these challenges by automating the complete onboarding lifecycle using a scalable, event-driven, serverless architecture on AWS. The application creates employee records, provisions secure user identities, validates onboarding documents, orchestrates onboarding workflows, automates IT provisioning, sends email notifications, and provides real-time visibility into onboarding progress through dedicated employee and HR dashboards.
+
+Built using AWS managed services such as **AWS Lambda, API Gateway, Amazon DynamoDB, Amazon Cognito, AWS Step Functions, Amazon S3, Amazon SES, Amazon SNS, and Amazon CloudFront**, the solution eliminates infrastructure management while ensuring scalability, security, reliability, and cost efficiency.
+
+This project demonstrates practical implementation of serverless application development, RESTful APIs, event-driven workflows, cloud security, identity management, and workflow automation, making it representative of modern cloud-native enterprise applications.
+
+---
+
+# 🎯 Key Features
+
+- Automated employee registration and onboarding
+- Identity provisioning using Amazon Cognito
+- Secure document upload and validation
+- Workflow orchestration using AWS Step Functions
+- HR approval workflow
+- Automated IT provisioning
+- Real-time onboarding progress tracking
+- HR administration dashboard
+- Employee self-service portal
+- Email notifications using Amazon SES
+- HR notifications using Amazon SNS
+- Secure REST APIs with Amazon API Gateway
+- Scalable serverless architecture
 
 ---
 
