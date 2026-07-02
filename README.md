@@ -62,8 +62,8 @@ This project demonstrates practical implementation of serverless application dev
 ### 📷 AWS Console Architecture
 
 <p align="center">
-<img src="screenshots/aws-architecture.png">
-</p><img width="1385" height="700" alt="architecture_diagram_project_1" src="https://github.com/user-attachments/assets/0e6dc913-9484-4748-bd5f-48993497adf4" />
+<img width="1385" height="700" alt="architecture_diagram_project_1" src="https://github.com/user-attachments/assets/0e6dc913-9484-4748-bd5f-48993497adf4" />
+</p>
 
 
 ---
@@ -80,8 +80,8 @@ This project demonstrates practical implementation of serverless application dev
 ### 📷 Employee Portal
 
 <p align="center">
-<img src="screenshots/employee-portal.png" width="900">
-</p><img width="602" height="851" alt="Employee_onboarding_portal" src="https://github.com/user-attachments/assets/0092487c-f891-4b2b-b1cc-a748184df4a7" />
+<img width="602" height="851" alt="Employee_onboarding_portal" src="https://github.com/user-attachments/assets/0092487c-f891-4b2b-b1cc-a748184df4a7" />
+</p>
 
 
 ---
@@ -96,8 +96,8 @@ This project demonstrates practical implementation of serverless application dev
 ### 📷 HR Dashboard
 
 <p align="center">
-<img src="screenshots/hr-dashboard.png" width="900">
-</p><img width="1883" height="249" alt="HR_onboarding_dashboard" src="https://github.com/user-attachments/assets/924e5b08-e01f-4427-9414-303654fc7489" />
+<img width="1883" height="249" alt="HR_onboarding_dashboard" src="https://github.com/user-attachments/assets/924e5b08-e01f-4427-9414-303654fc7489" />
+</p>
 
 
 ---
@@ -121,8 +121,8 @@ The backend consists of seven Lambda functions.
 ### 📷 Lambda Functions
 
 <p align="center">
-<img src="screenshots/lambda-functions.png">
-</p><img width="1250" height="491" alt="Lambda Functions" src="https://github.com/user-attachments/assets/a718f2df-1b18-4e37-9c6f-01ba31b5804b" />
+<img width="1250" height="491" alt="Lambda Functions" src="https://github.com/user-attachments/assets/a718f2df-1b18-4e37-9c6f-01ba31b5804b" />
+</p>
 
 
 ---
@@ -144,8 +144,8 @@ Workflow
 ### 📷 Step Functions Workflow
 
 <p align="center">
-<img src="screenshots/step-functions.png">
-</p><img width="856" height="873" alt="Step_function_execution" src="https://github.com/user-attachments/assets/5691e851-75fa-4485-98cf-edfc5d262946" />
+<img width="856" height="873" alt="Step_function_execution" src="https://github.com/user-attachments/assets/5691e851-75fa-4485-98cf-edfc5d262946" />
+</p>
 
 
 ---
@@ -157,8 +157,8 @@ Employee data and onboarding progress are stored in Amazon DynamoDB.
 ### 📷 DynamoDB Tables
 
 <p align="center">
-<img src="screenshots/dynamodb.png">
-</p><img width="1247" height="412" alt="DynamoDB Tables" src="https://github.com/user-attachments/assets/bedf776b-15d2-4d60-9919-e111136272be" />
+<img width="1247" height="412" alt="DynamoDB Tables" src="https://github.com/user-attachments/assets/bedf776b-15d2-4d60-9919-e111136272be" />
+</p>
 
 
 ---
@@ -170,8 +170,8 @@ Amazon Cognito manages employee authentication.
 ### 📷 Cognito User Pool
 
 <p align="center">
-<img src="screenshots/cognito.png">
-</p><img width="1245" height="216" alt="Cognito User Pool" src="https://github.com/user-attachments/assets/33a899a5-20a6-42e8-b681-a51fa87ca361" />
+<img width="1245" height="216" alt="Cognito User Pool" src="https://github.com/user-attachments/assets/33a899a5-20a6-42e8-b681-a51fa87ca361" />
+</p>
 
 
 ---
@@ -183,8 +183,8 @@ Amazon API Gateway exposes backend APIs.
 ### 📷 API Gateway
 
 <p align="center">
-<img src="screenshots/api-gateway.png">
-</p><img width="1233" height="552" alt="API Gateway-2" src="https://github.com/user-attachments/assets/b6fb0644-373f-4a07-b897-4b9e0d667332" />
+<img width="1233" height="552" alt="API Gateway-2" src="https://github.com/user-attachments/assets/b6fb0644-373f-4a07-b897-4b9e0d667332" />
+</p>
 
 
 ---
@@ -196,8 +196,8 @@ Amazon S3 securely stores employee documents.
 ### 📷 Amazon S3 Bucket
 
 <p align="center">
-<img src="screenshots/s3-bucket.png">
-</p><img width="1530" height="417" alt="S3 Documents bucket" src="https://github.com/user-attachments/assets/7351d16c-47fb-4d62-8e62-ce9550045fa7" />
+<img width="1530" height="417" alt="S3 Documents bucket" src="https://github.com/user-attachments/assets/7351d16c-47fb-4d62-8e62-ce9550045fa7" />
+</p>
 
 
 ---
@@ -219,8 +219,8 @@ Amazon SNS notifies HR once onboarding is complete.
 ### 📷 Amazon SNS
 
 <p align="center">
-<img src="screenshots/sns.png">
-</p><img width="1242" height="207" alt="SNS Topic" src="https://github.com/user-attachments/assets/2fa40359-918f-4301-a53e-e45974788194" />
+<img width="1242" height="207" alt="SNS Topic" src="https://github.com/user-attachments/assets/2fa40359-918f-4301-a53e-e45974788194" />
+</p>
 
 
 ---
